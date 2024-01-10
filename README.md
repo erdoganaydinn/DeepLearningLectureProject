@@ -54,7 +54,7 @@ verilmiştir. Ayrıca CNN modeli için hiperparametre optimizasyonu (hyperparame
 ## Kurulum
 
 Öncelikle public klasörü altında bulunan tüm dosyaları bilgisayara indirin.
-[BURADAN]https://docs.google.com/spreadsheets/d/11TUYttR-7M6HUFzcytESMOMp_qj970qr/edit?rtpof=true&sd=true#gid=397995484 veri setini indirin indirdiğiniz dosyalarla aynı konuma ekleyin. SplitDatasetCode.ipynb dosyası ile belirlediğiniz train,test ve validasyon oranlarında verisetini aynı dizine ayırın.
+[BURADAN](https://docs.google.com/spreadsheets/d/11TUYttR-7M6HUFzcytESMOMp_qj970qr/edit?rtpof=true&sd=true#gid=397995484) veri setini indirin indirdiğiniz dosyalarla aynı konuma ekleyin. SplitDatasetCode.ipynb dosyası ile belirlediğiniz train,test ve validasyon oranlarında verisetini aynı dizine ayırın.
 Eğer google collab ortamında çalışıyorsanız google drive hesabınız tüm dosyaları ve veri setini yüklemeniz gerekmektedir.
 Sonra istediğiniz işlemin dosyasını açarak çalışabilirsiniz.
 
